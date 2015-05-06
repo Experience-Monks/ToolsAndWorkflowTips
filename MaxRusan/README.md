@@ -2,7 +2,8 @@
 
 OS: OSX
 
-Workstation: Laptop on the right, monitor on the left, standing desk, apple keyboard and mouse
+Workstation:
+![My Workstation](//c4.staticflickr.com/8/7676/17389734552_79226d1865_c.jpg)
 
 Favority snack: Nuts, Kind Bar
 
@@ -19,6 +20,7 @@ Theme: [Cobalt 2](https://packagecontrol.io/packages/Theme%20-%20Cobalt2)
 
 - AutoFileName
 - SublimeLinter (jshint)
+- JavaScript & NodeJS Snippets
 
 ### Git
 
