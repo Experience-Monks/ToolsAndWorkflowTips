@@ -23,6 +23,6 @@ Theme: [Cobalt 2](https://packagecontrol.io/packages/Theme%20-%20Cobalt2)
 - SublimeLinter (jshint)
 - JavaScript & NodeJS Snippets
 
-### Git
+### Git App
 
 - Source Tree
