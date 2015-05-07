@@ -3,14 +3,14 @@
 OS: OSX
 
 Workstation:
-![My Workstation](//c4.staticflickr.com/8/7676/17389734552_79226d1865_c.jpg)
+![My Workstation](images/IMG_7667.JPG?raw=true)
 
 Favority snack: Nuts, Kind Bar
 
 ## Dev Tools
 
 - Blackbox Scripts
-- 
+- Word Wrap
 
 ## Sublime Text
 
