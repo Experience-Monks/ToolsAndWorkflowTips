@@ -2,7 +2,7 @@
 
 OS: OSX
 
-Workstation:
+Workstation: 
 ![My Workstation](images/IMG_7667.JPG?raw=true)
 
 Favority snack: Nuts, Kind Bar
