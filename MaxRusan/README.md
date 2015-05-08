@@ -61,7 +61,7 @@ Theme: [Cobalt 2](https://packagecontrol.io/packages/Theme%20-%20Cobalt2)
 - Pretty Print
 - Blackbox Script
 
-### Apps I Can't Live Without 
+## Apps I Can't Live Without 
 
 - Alfred
 - Source Tree
