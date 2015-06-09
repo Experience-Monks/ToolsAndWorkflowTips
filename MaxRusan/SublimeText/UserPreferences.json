@@ -1,0 +1,35 @@
+{
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
+  "detect_indentation": false,
+  "draw_white_space": "all",
+  "file_exclude_patterns":
+  [
+    "*~"
+  ],
+  "find_selected_text": true,
+  "font_size": 12,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage",
+    "Markdown"
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "indent_to_bracket": true,
+  "line_padding_bottom": 0,
+  "line_padding_top": 0,
+  "match_brackets": true,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+  "tab_size": 2,
+  "theme": "Cobalt2.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
