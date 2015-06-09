@@ -23,7 +23,12 @@ Productivity music: [Instrumental](https://8tracks.com/thegirlnamedjedrzejko/ult
 - Color Highlighter
 - Emmet
 - SideBarEnhancements
-- CSS Extended Completions 
+- CSS Extended Completions
+- BracketHighlighter
+- HTML5
+- JavaScript & NodeJS Snippets
+- Node Requirer
+- SFTP
 
 ## Browser
 
