@@ -1,0 +1,30 @@
+{
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"Xceligent.Web.CommercialSearch/**/*.map",
+		"Xceligent.Web.CommercialSearch/App/core/*.js",
+		"Xceligent.Web.CommercialSearch/App/core/*.css",
+		"Xceligent.Web.CommercialSearch/App/assets/*.css"
+	],
+	"folder_exclude_patterns":
+	[
+		".tscache"
+	],
+	"font_size": 16,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"rulers":
+	[
+		140
+	],
+	"theme": "Spacegray Eighties.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"typescript_plugin_tsc_version": "1.7.2"
+}
